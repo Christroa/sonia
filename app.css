@@ -27,14 +27,14 @@ section {
 
 .sub-heading {
   text-align: center;
-  color: #7B0073;
+  color: #860b57;
   font-size: 2rem;
   padding-top: 1rem;
 }
 
 .heading {
   text-align: center;
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 3rem;
   padding-top: 2rem;
   text-transform: uppercase;
@@ -45,14 +45,14 @@ section {
   display: inline-block;
   font-size: 1.7rem;
   color: #fff;
-  background: #FF003D;
+  background: #e91d4c;
   border-radius: .5rem;
   cursor: pointer;
   padding: .8rem 3rem;
 }
 
 .btn:hover {
-  background: #7B0073;
+  background: #860b57;
   letter-spacing: .1rem;
 }
 
@@ -78,7 +78,7 @@ header {
 }
 
 header .logo {
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 2.5rem;
   font-weight: bolder;
 }
@@ -96,7 +96,7 @@ header .navbar a {
 
 header .navbar a:hover, header .navbar a.active {
   color: #fff;
-  background: #7B0073;
+  background: #860b57;
 }
 
 header .icons i, header .icons a {
@@ -107,14 +107,14 @@ header .icons i, header .icons a {
   width: 4.5rem;
   text-align: center;
   font-size: 1.7rem;
-  color: #FF003D;
+  color: #e91d4c;
   border-radius: 50%;
   background: #eee;
 }
 
 header .icons i:hover, header .icons a:hover {
   color: #fff;
-  background: #7B0073;
+  background: #860b57;
   -webkit-transform: rotate(360deg);
           transform: rotate(360deg);
 }
@@ -184,7 +184,7 @@ header .icons i#menu-bars, header .icons a#menu-bars {
 }
 
 #search-form label:hover {
-  color: #7B0073;
+  color: #860b57;
 }
 
 #search-form #close {
@@ -223,12 +223,12 @@ section.home .home-slider .slide .content img, section.home .home-slider .slide 
 }
 
 section.home .home-slider .slide .content span {
-  color: #7B0073;
+  color: #860b57;
   font-size: 2.5rem;
 }
 
 section.home .home-slider .slide .content h3 {
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 7rem;
 }
 
@@ -268,11 +268,11 @@ section.dishes .box-container .box .fa-heart, section.dishes .box-container .box
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  color: #FF003D;
+  color: #e91d4c;
 }
 
 section.dishes .box-container .box .fa-heart:hover, section.dishes .box-container .box .fa-eye:hover {
-  background: #7B0073;
+  background: #860b57;
   color: #fff;
 }
 
@@ -298,7 +298,7 @@ section.dishes .box-container .box img {
 }
 
 section.dishes .box-container .box h3 {
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 2.5rem;
 }
 
@@ -308,11 +308,11 @@ section.dishes .box-container .box .stars {
 
 section.dishes .box-container .box .stars i {
   font-size: 1.7rem;
-  color: #7B0073;
+  color: #860b57;
 }
 
 section.dishes .box-container .box span {
-  color: #7B0073;
+  color: #860b57;
   font-weight: bolder;
   margin-right: 1rem;
   font-size: 2.5rem;
@@ -347,7 +347,7 @@ section.about .row .content {
 }
 
 section.about .row .content h3 {
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 4rem;
   padding: .5rem 0;
 }
@@ -392,12 +392,12 @@ section.about .row .content .icons-container .icons {
 
 section.about .row .content .icons-container .icons i {
   font-size: 2.5rem;
-  color: #7B0073;
+  color: #860b57;
 }
 
 section.about .row .content .icons-container .icons span {
   font-size: 1.5rem;
-  color: #FF003D;
+  color: #e91d4c;
 }
 
 section.menu .box-container {
@@ -443,11 +443,11 @@ section.menu .box-container .box .image .fa-heart {
   font-size: 2rem;
   background: #fff;
   border-radius: 50%;
-  color: #FF003D;
+  color: #e91d4c;
 }
 
 section.menu .box-container .box .image .fa-heart:hover {
-  background: #7B0073;
+  background: #860b57;
   color: #fff;
 }
 
@@ -462,7 +462,7 @@ section.menu .box-container .box .content .stars {
 
 section.menu .box-container .box .content .stars i {
   font-size: 1.7rem;
-  color: #7B0073;
+  color: #860b57;
 }
 
 section.menu .box-container .box .content h3 {
@@ -478,7 +478,7 @@ section.menu .box-container .box .content p {
 }
 
 section.menu .box-container .box .content .price {
-  color: #7B0073;
+  color: #860b57;
   margin-left: 1rem;
   font-size: 2.5rem;
 }
@@ -520,14 +520,14 @@ section.review .slide .user img {
 }
 
 section.review .slide .user h3 {
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 2rem;
   padding-bottom: .5rem;
 }
 
 section.review .slide .user i {
   font-size: 1.3rem;
-  color: #7B0073;
+  color: #860b57;
 }
 
 section.review .slide p {
@@ -574,14 +574,14 @@ section.order form .inputBox .input input, section.order form .inputBox .input t
   border-radius: .5rem;
   padding: 1rem;
   font-size: 1.6rem;
-  color: #FF003D;
+  color: #e91d4c;
   text-transform: none;
   margin-bottom: 1rem;
   width: 100%;
 }
 
 section.order form .inputBox .input input:focus, section.order form .inputBox .input textarea:focus {
-  border: 0.2 solid #7B0073;
+  border: 0.2 solid #860b57;
 }
 
 section.order form .inputBox .input textarea {
@@ -603,7 +603,7 @@ section.footer .box-container {
 
 section.footer .box-container .box h3 {
   padding: .5rem 0;
-  color: #FF003D;
+  color: #e91d4c;
   font-size: 2.5rem;
 }
 
@@ -615,7 +615,7 @@ section.footer .box-container .box a {
 }
 
 section.footer .box-container .box a:hover {
-  color: #7B0073;
+  color: #860b57;
   text-decoration: underline;
 }
 
@@ -623,18 +623,18 @@ section .credit {
   text-align: center;
   border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
   font-size: 2rem;
-  color: #FF003D;
+  color: #e91d4c;
   padding: .5rem;
   padding-top: 1.5rem;
   margin-top: 1.5rem;
 }
 
 section .credit span {
-  color: #7B0073;
+  color: #860b57;
 }
 
 .swiper-pagination-bullet-active {
-  background: #7B0073;
+  background: #860b57;
 }
 
 @media (max-width: 991px) {
