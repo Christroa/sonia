@@ -27,14 +27,14 @@ section {
 
 .sub-heading {
   text-align: center;
-  color: #27ae60;
+  color: #7B0073;
   font-size: 2rem;
   padding-top: 1rem;
 }
 
 .heading {
   text-align: center;
-  color: #ff9100;
+  color: #FF003D;
   font-size: 3rem;
   padding-top: 2rem;
   text-transform: uppercase;
@@ -45,14 +45,14 @@ section {
   display: inline-block;
   font-size: 1.7rem;
   color: #fff;
-  background: #ff9100;
+  background: #FF003D;
   border-radius: .5rem;
   cursor: pointer;
   padding: .8rem 3rem;
 }
 
 .btn:hover {
-  background: #27ae60;
+  background: #7B0073;
   letter-spacing: .1rem;
 }
 
@@ -78,25 +78,25 @@ header {
 }
 
 header .logo {
-  color: #ff9100;
+  color: #FF003D;
   font-size: 2.5rem;
   font-weight: bolder;
 }
 
 header .logo i {
-  color: #6e2828;
+  color: #000;
 }
 
 header .navbar a {
   font-size: 1.7rem;
   border-radius: .5rem;
   padding: .5rem 1.5rem;
-  color: #6e2828;
+  color: #000;
 }
 
 header .navbar a:hover, header .navbar a.active {
   color: #fff;
-  background: #27ae60;
+  background: #7B0073;
 }
 
 header .icons i, header .icons a {
@@ -107,14 +107,14 @@ header .icons i, header .icons a {
   width: 4.5rem;
   text-align: center;
   font-size: 1.7rem;
-  color: #ff9100;
+  color: #FF003D;
   border-radius: 50%;
   background: #eee;
 }
 
 header .icons i:hover, header .icons a:hover {
   color: #fff;
-  background: #27ae60;
+  background: #7B0073;
   -webkit-transform: rotate(360deg);
           transform: rotate(360deg);
 }
@@ -184,7 +184,7 @@ header .icons i#menu-bars, header .icons a#menu-bars {
 }
 
 #search-form label:hover {
-  color: #27ae60;
+  color: #7B0073;
 }
 
 #search-form #close {
@@ -223,17 +223,17 @@ section.home .home-slider .slide .content img, section.home .home-slider .slide 
 }
 
 section.home .home-slider .slide .content span {
-  color: #27ae60;
+  color: #7B0073;
   font-size: 2.5rem;
 }
 
 section.home .home-slider .slide .content h3 {
-  color: #ff9100;
+  color: #FF003D;
   font-size: 7rem;
 }
 
 section.home .home-slider .slide .content p {
-  color: #6e2828;
+  color: #000;
   font-size: 2.2rem;
   padding: .5rem 0;
   line-height: 1.5;
@@ -268,11 +268,11 @@ section.dishes .box-container .box .fa-heart, section.dishes .box-container .box
   width: 5rem;
   line-height: 5rem;
   font-size: 2rem;
-  color: #ff9100;
+  color: #FF003D;
 }
 
 section.dishes .box-container .box .fa-heart:hover, section.dishes .box-container .box .fa-eye:hover {
-  background: #27ae60;
+  background: #7B0073;
   color: #fff;
 }
 
@@ -298,7 +298,7 @@ section.dishes .box-container .box img {
 }
 
 section.dishes .box-container .box h3 {
-  color: #ff9100;
+  color: #FF003D;
   font-size: 2.5rem;
 }
 
@@ -308,11 +308,11 @@ section.dishes .box-container .box .stars {
 
 section.dishes .box-container .box .stars i {
   font-size: 1.7rem;
-  color: #27ae60;
+  color: #7B0073;
 }
 
 section.dishes .box-container .box span {
-  color: #27ae60;
+  color: #7B0073;
   font-weight: bolder;
   margin-right: 1rem;
   font-size: 2.5rem;
@@ -347,13 +347,13 @@ section.about .row .content {
 }
 
 section.about .row .content h3 {
-  color: #ff9100;
+  color: #FF003D;
   font-size: 4rem;
   padding: .5rem 0;
 }
 
 section.about .row .content p {
-  color: #6e2828;
+  color: #000;
   font-size: 1.5rem;
   padding: .5rem 0;
   line-height: 2;
@@ -392,12 +392,12 @@ section.about .row .content .icons-container .icons {
 
 section.about .row .content .icons-container .icons i {
   font-size: 2.5rem;
-  color: #27ae60;
+  color: #7B0073;
 }
 
 section.about .row .content .icons-container .icons span {
   font-size: 1.5rem;
-  color: #ff9100;
+  color: #FF003D;
 }
 
 section.menu .box-container {
@@ -443,11 +443,11 @@ section.menu .box-container .box .image .fa-heart {
   font-size: 2rem;
   background: #fff;
   border-radius: 50%;
-  color: #ff9100;
+  color: #FF003D;
 }
 
 section.menu .box-container .box .image .fa-heart:hover {
-  background: #27ae60;
+  background: #7B0073;
   color: #fff;
 }
 
@@ -462,7 +462,7 @@ section.menu .box-container .box .content .stars {
 
 section.menu .box-container .box .content .stars i {
   font-size: 1.7rem;
-  color: #27ae60;
+  color: #7B0073;
 }
 
 section.menu .box-container .box .content h3 {
@@ -471,14 +471,14 @@ section.menu .box-container .box .content h3 {
 }
 
 section.menu .box-container .box .content p {
-  color: #6e2828;
+  color: #000;
   font-size: 1.6rem;
   line-height: 1.5;
   padding: .5rem 0;
 }
 
 section.menu .box-container .box .content .price {
-  color: #27ae60;
+  color: #7B0073;
   margin-left: 1rem;
   font-size: 2.5rem;
 }
@@ -520,20 +520,20 @@ section.review .slide .user img {
 }
 
 section.review .slide .user h3 {
-  color: #ff9100;
+  color: #FF003D;
   font-size: 2rem;
   padding-bottom: .5rem;
 }
 
 section.review .slide .user i {
   font-size: 1.3rem;
-  color: #27ae60;
+  color: #7B0073;
 }
 
 section.review .slide p {
   font-size: 1.5rem;
   line-height: 1.8;
-  color: #6e2828;
+  color: #000;
 }
 
 section.order form {
@@ -566,7 +566,7 @@ section.order form .inputBox .input span {
   display: block;
   padding: .5rem 0;
   font-size: 1.5rem;
-  color: #6e2828;
+  color: #000;
 }
 
 section.order form .inputBox .input input, section.order form .inputBox .input textarea {
@@ -574,14 +574,14 @@ section.order form .inputBox .input input, section.order form .inputBox .input t
   border-radius: .5rem;
   padding: 1rem;
   font-size: 1.6rem;
-  color: #ff9100;
+  color: #FF003D;
   text-transform: none;
   margin-bottom: 1rem;
   width: 100%;
 }
 
 section.order form .inputBox .input input:focus, section.order form .inputBox .input textarea:focus {
-  border: 0.2 solid #27ae60;
+  border: 0.2 solid #7B0073;
 }
 
 section.order form .inputBox .input textarea {
@@ -603,19 +603,19 @@ section.footer .box-container {
 
 section.footer .box-container .box h3 {
   padding: .5rem 0;
-  color: #ff9100;
+  color: #FF003D;
   font-size: 2.5rem;
 }
 
 section.footer .box-container .box a {
   display: block;
   padding: .5rem 0;
-  color: #6e2828;
-  font-size: 2.5rem;
+  color: #000;
+  font-size: 2rem;
 }
 
 section.footer .box-container .box a:hover {
-  color: #27ae60;
+  color: #7B0073;
   text-decoration: underline;
 }
 
@@ -623,18 +623,18 @@ section .credit {
   text-align: center;
   border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
   font-size: 2rem;
-  color: #ff9100;
+  color: #FF003D;
   padding: .5rem;
   padding-top: 1.5rem;
   margin-top: 1.5rem;
 }
 
 section .credit span {
-  color: #27ae60;
+  color: #7B0073;
 }
 
 .swiper-pagination-bullet-active {
-  background: #27ae60;
+  background: #7B0073;
 }
 
 @media (max-width: 991px) {
